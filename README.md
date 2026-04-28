@@ -1,6 +1,5 @@
 # university-json-analyzer
 Parses large JSON (10k+ lines) and calculates average student grade
-# university-json-analyzer
 
 Парсинг большого JSON (более 10 тысяч строк) и расчёт среднего балла студентов.
 
